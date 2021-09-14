@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JsonStudy</string>
+    <string name="Settings">Настройки</string>
+    <string name="ServerPort">Порт сервера</string>
+    <string name="IPadress">IP адрес сервера</string>
+    <string name="TimeOut">Таймаут ожидания</string>
+    <string name="ip">IP адрес сервера</string>
+
+</resources>
