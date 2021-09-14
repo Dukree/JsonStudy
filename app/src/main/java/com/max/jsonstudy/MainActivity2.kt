@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.view.View
 import android.widget.EditText
 import android.widget.TextView
+import org.json.JSONObject
 import java.io.IOException
 import java.io.InputStream
 
@@ -27,5 +28,12 @@ class MainActivity2 : AppCompatActivity() {
     {
 
     }
+//
+//        val serialNumbers : TextView = findViewById(R.id.editTextTextPersonName3)
+//        val parentObjects = JSONObject(json)
+//        val serialNumber = parentObjects.getString("fields")
+//        serialNumbers.text = serialNumber
+
     }
+
 }
