@@ -5,5 +5,15 @@
     <string name="IPadress">IP адрес сервера</string>
     <string name="TimeOut">Таймаут ожидания</string>
     <string name="ip">IP адрес сервера</string>
+    <string name="form">Form</string>
+    <string name="serial">Serial</string>
+    <string name="field_1">Field 1</string>
+    <string name="field_2">Field 2</string>
+    <string name="field_3">Field 3</string>
+    <string name="field_4">Field 4</string>
+    <string name="field_5">Field 5</string>
+    <string name="field_6">Field 6</string>
+    <string name="field_7">Field 7</string>
+    <string name="field_8">Field 8</string>
 
 </resources>
